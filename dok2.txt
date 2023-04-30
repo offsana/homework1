@@ -1,0 +1,16 @@
+public class Class {
+    public static void main(String[] args) {
+        int n;
+        n = 365;
+        int s;
+        s= n / 100;
+        int d;
+        d =  n / 10 % 10;
+        int e;
+        e =  n % 10;
+        System.out.println(n);
+        System.out.println(s);
+        System.out.println(d);
+        System.out.println(e);
+    }
+}

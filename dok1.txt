@@ -1,0 +1,27 @@
+public class Class {
+    public static void main(String[] args) {
+        char ch;
+        ch = 'G';
+        int in;
+        in = 86;
+        byte by;
+        by = 8;
+        short sh;
+        sh = 56;
+        float fl;
+        fl = 4.7333436F;
+        double doub;
+        doub = 4.355453532;
+        long lon;
+        lon = 12121;
+
+        System.out.println(ch);
+        System.out.println(in);
+        System.out.println(by);
+        System.out.println(sh);
+        System.out.println(fl);
+        System.out.println(doub);
+        System.out.println(lon);
+
+    }
+    }
